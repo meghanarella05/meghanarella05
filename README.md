@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Meghana Rella 👋
 
-<!--
-**meghanarella05/meghanarella05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student, builder, and open-source developer who enjoys turning ideas into working systems.
 
-Here are some ideas to get you started:
+## What I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building AI-powered tools and agents
+- Exploring RAG, LLM applications, and workflow automation
+- Contributing to open-source projects
+- Experimenting with startup ideas and rapid prototyping
+
+## A Few Things About Me
+
+- Founder of Sitaara, an initiative that supported thousands of girls through menstrual health efforts
+- Published author
+- Interested in AI, systems thinking, entrepreneurship, and research
+- Strong believer in learning by building
+
+## Current Interests
+
+- AI Agents
+- Developer Tools
+- Knowledge Systems
+- AGI Research
+- Human-AI Interaction
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/meghana-rella-17785a210/
+- GitHub: https://github.com/meghanarella05
+
+---
+
+*"Outcomes over Optics"*
