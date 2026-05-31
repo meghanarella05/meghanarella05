@@ -1,6 +1,6 @@
-# Hi, I'm Meghana Rella 👋
+# Hi, I'm Meghana Rella 👋 - Capitalism’s intern - Building systems - Outcomes over Optics
 
-I'm a student, builder, and open-source developer who enjoys turning ideas into working systems.
+I'm a student, builder, and open-source developer who enjoys turning ideas into working systems. 
 
 ## What I'm Working On
 
@@ -30,5 +30,3 @@ I'm a student, builder, and open-source developer who enjoys turning ideas into 
 - GitHub: https://github.com/meghanarella05
 
 ---
-
-*"Outcomes over Optics"*
