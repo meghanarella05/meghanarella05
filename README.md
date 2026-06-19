@@ -12,7 +12,7 @@ I'm a student, builder, and open-source developer who enjoys turning ideas into 
 ## A Few Things About Me
 
 - Founder of Sitaara, an initiative that supported thousands of girls through menstrual health efforts
-- Published author
+- Published author of "The Gamma Apocalypse" on Amazon
 - Interested in AI, systems thinking, entrepreneurship, and research
 - Strong believer in learning by building
 
